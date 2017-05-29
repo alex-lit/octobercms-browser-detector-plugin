@@ -35,17 +35,17 @@ This plugin use [Bowser](https://github.com/lancedikson/bowser) library.
 
 #### Browser engines
 
-* webkit
 * blink
 * gecko
-* msie
 * msedge
+* msie
+* webkit
 
 #### Device types
 
+* laptop
 * mobile
 * tablet
-* laptop
 
 #### Operation Systems
 
