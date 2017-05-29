@@ -6,7 +6,7 @@ PLugin adds found parameters to data attributes of the HTML tag.
 
 This plugin use [Bowser](https://github.com/lancedikson/bowser) library.
 
-![banner](https://cdn.rawgit.com/web2easy/OctoberCMS-Yandex-Share-Plugin/0d846efb/assets/images/banner.jpg)
+![banner](https://cdn.rawgit.com/web2easy/OctoberCMS-Browser-Detector-Plugin/c4c6e1ef/assets/images/banner.png)
 
 #### Browsers:
 
