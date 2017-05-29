@@ -1,0 +1,6 @@
+plugin:
+    name: 'alexlit.browserdetector::lang.plugin.name'
+    description: 'alexlit.browserdetector::lang.plugin.description'
+    author: 'Alexey Litovchenko'
+    icon: oc-icon-eye
+    homepage: 'https://web2easy.ru'
