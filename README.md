@@ -2,7 +2,7 @@
 
 Detecting user's browser name, version, engine, device type and operating system.
 
-PLugin adds found parameters to data attributes of the HTML tag.
+Plugin adds found parameters to data attributes of the HTML tag.
 
 This plugin use [Bowser](https://github.com/lancedikson/bowser) library.
 
