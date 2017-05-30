@@ -4,12 +4,11 @@ use System\Classes\PluginBase;
 
 class Plugin extends PluginBase
 {
-
     public function pluginDetails()
     {
         return [
-            'name'        => 'Browser Detector',
-            'description' => 'Detecting a user\'s browser name and version',
+            'name'        => 'alexlit.browserdetector::lang.plugin.name',
+            'description' => 'alexlit.browserdetector::lang.plugin.description',
             'author'      => 'Alexey Litovchenko',
             'icon'        => 'icon-eye',
             'homepage'    => 'https://web2easy.ru'
