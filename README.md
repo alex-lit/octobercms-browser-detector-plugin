@@ -8,6 +8,11 @@ This plugin use [Bowser](https://github.com/lancedikson/bowser) library.
 
 ![banner](https://cdn.rawgit.com/web2easy/OctoberCMS-Browser-Detector-Plugin/c4c6e1ef/assets/images/banner.png)
 
+#### Available languages:
+
+- English
+- Русский
+
 #### Browsers:
 
 * android
