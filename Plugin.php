@@ -11,7 +11,7 @@ class Plugin extends PluginBase
             'description' => 'alexlit.browserdetector::lang.plugin.description',
             'author'      => 'Alexey Litovchenko',
             'icon'        => 'icon-eye',
-            'homepage'    => 'https://web2easy.ru'
+            'homepage'    => 'https://github.com/alex-lit?tab=projects'
         ];
     }
 
