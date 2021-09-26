@@ -11,7 +11,7 @@ class Plugin extends PluginBase
             'description' => 'alexlit.browserdetector::lang.plugin.description',
             'author'      => 'Alexey Litovchenko',
             'icon'        => 'icon-eye',
-            'homepage'    => 'https://github.com/alex-lit?tab=projects'
+            'homepage'    => 'https://github.com/alex-lit/octobercms-browser-detector-plugin'
         ];
     }
 
